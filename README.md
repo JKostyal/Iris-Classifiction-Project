@@ -1,7 +1,5 @@
 # Iris-Classifiction-Project
-
-Please click on Iris specieis classification.ipynb
-
+https://github.com/JKostyal/Iris-Classifiction-Project/blob/master/Iris%20Species%20Classification.ipynb
 Classification problem to distinguish Iris flower species based on petal and sepal width and lengths. Simple, classic.
 
 No data cleaning involved.
